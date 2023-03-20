@@ -1,3 +1,4 @@
+/*Prakash comment*/
 
 create table departments (
     department varchar(100),
